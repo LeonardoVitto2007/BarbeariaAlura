@@ -4,7 +4,7 @@ p {
 h1 {
     text-align: center;
 }
-
+strong
 p {
     font-size: 60px; 
 }
@@ -12,5 +12,5 @@ strong {
     color:blue
 }
 h1 { 
-    color:cyan;
+    color:black;
 }
