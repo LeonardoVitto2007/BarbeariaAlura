@@ -8,7 +8,9 @@ h1 {
 p {
     font-size: 60px; 
 }
-
+strong {
+    color:blue
+}
 h1 { 
-    color: tomato;
+    color:cyan;
 }
