@@ -3,6 +3,7 @@ p {
     font-size: 55px;
 }
 h1 {
+    color:mediumblue;
     text-align: center;
     font-size: 60px; 
 }
@@ -10,9 +11,6 @@ h1 {
 
 strong {
     color:blue
-}
-h1 { 
-    color:mediumblue;
 }
 
 body {
