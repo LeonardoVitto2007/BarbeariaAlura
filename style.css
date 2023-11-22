@@ -17,6 +17,11 @@ strong {
 }
 
 body {
-    background-image: url(https://midias.correiobraziliense.com.br/_midias/jpg/2022/06/16/675x450/1_ricardo_milos-25882636.jpg?20220616200315?20220616200315) ;
+
     background:#cccccc ; 
+}
+
+li {
+font-size: medium;
+
 }
